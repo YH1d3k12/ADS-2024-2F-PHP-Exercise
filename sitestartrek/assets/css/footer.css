@@ -1,0 +1,16 @@
+footer {
+    height: 30%;
+    padding: 20px;
+    text-align: center;
+    border-top: 1px solid #ccc;
+}
+
+footer h2 {
+    margin: 0;
+    font-size: 24px;
+}
+
+footer p {
+    margin: 0;
+    font-size: 16px;
+}
